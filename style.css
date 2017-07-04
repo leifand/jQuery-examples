@@ -1,0 +1,24 @@
+/*  style.css
+    JQuery Functions exercise
+    June 27th, 2017
+    Leif Anderson
+*/
+* {
+  background-color: darkgrey;
+}
+img {
+  width: 200px;
+}
+h3 {
+  border: black solid 2px;
+  margin: 10px;
+}
+#section-1, #section-2, #section-3, #section-5 {
+  border: black solid 2px;
+}
+.silver-border {
+  border: green solid 10px;
+}
+p {
+  font-style: oblique;
+}
