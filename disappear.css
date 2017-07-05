@@ -1,0 +1,29 @@
+/*
+    disappear.css
+    Leif Anderson 7/4/17
+*/
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  width: 976px;
+  background-color: darkred;
+  margin-left: 10px;
+}
+
+img {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border: solid black 2px;
+}
+
+h2 {
+  border: solid black 2px;
+  width: 828px;
+  color: orange;
+  text-align: center;
+}
